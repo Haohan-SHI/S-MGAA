@@ -1,0 +1,2 @@
+# S-MGAA
+A repository for the ICASSP 2026 accepted paper "AUDIO DEEPFAKE DETECTION AT THE FIRST GREETING: “HI!”"
